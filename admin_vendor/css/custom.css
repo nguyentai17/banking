@@ -1,0 +1,17 @@
+/* Add here all your CSS customizations */
+*{
+
+}
+
+.body-sign .card-sign .card-title-sign .title{
+    background-color: #0088CC;
+}
+
+.body-sign .card-sign .card-body{
+    border-top: 5px solid #0088CC;
+}
+
+.btn-primary{
+    background-color: #0088CC;
+    border-color: #0088CC #0088CC #0088CC;
+}
